@@ -1,0 +1,14 @@
+hi Mayuri
+
+
+git config --system user.name "mayu"
+
+git config --system user.email mhetremayuri@gmail.com
+
+git config --help
+
+git config --system --list --show-origin
+
+git remote add origin "sitename"
+
+
