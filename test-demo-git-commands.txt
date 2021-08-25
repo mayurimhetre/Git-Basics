@@ -38,3 +38,10 @@ git config --global user.username mayurimhetre
 git remote add origin https://github.com/mayurimhetre/Git-Basics.git
 
 git push origin master
+
+
+################ PUSH and PULL ###############
+
+git push origin master
+git pull origin master
+git clone -b master linkurl
