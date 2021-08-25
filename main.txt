@@ -1,0 +1,6 @@
+hiii 
+
+git commands
+
+git add
+git remote
