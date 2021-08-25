@@ -1,6 +1,6 @@
 # Git-Basics
 
-hi Mayuri
+https://www.youtube.com/watch?v=eBmG7keE8B4
 
 
 git config --system user.name "mayu"
